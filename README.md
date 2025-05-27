@@ -4,7 +4,7 @@
 - 🎓 I am an incoming PhD Candidate in Biomedical Engineering at the University of Toronto
 - 🧠 I am looking to specialize in deep brain surgical stimulation for mood disorders at the Translational Neurophysiology & Brain Stimulation (TNBS) Lab. 
 - 🛠️ I like ML, Computational Cognition, Neurotech, and Data Science.
-- 💻 I am currently working on sparse autoencoders at BMO Lab, U of T.
+- 💻 I am currently working on building my website.
 
 ---
 
