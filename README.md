@@ -1,7 +1,7 @@
 # 🚀 Hi there
 
 - ❤️ I'm Shysta
-- 🎓 I am an incoming PhD Candidate in Biomedical Engineering at the University of Toronto
+- 🎓 I am a PhD Student in Biomedical Engineering at the University of Toronto
 - 🧠 I am looking to specialize in deep brain surgical stimulation for mood disorders at the Translational Neurophysiology & Brain Stimulation (TNBS) Lab. 
 - 🛠️ I like ML, Computational Cognition, Neurotech, and Data Science.
 - 💻 Visit [my website](https://shystasehgal.com).
